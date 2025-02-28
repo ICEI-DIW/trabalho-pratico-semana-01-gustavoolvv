@@ -3,11 +3,13 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Gustavo Henrique de Oliveira Chaves
+Matricula: 1590077
 
 ## Tela de inspeção com navegador
 
+![imagem network](image.png)
 
 ## Tela de projeto no Replit
 
+![imagem replit](image-1.png)
